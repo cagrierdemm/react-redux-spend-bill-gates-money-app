@@ -1,3 +1,17 @@
+# Spend Bill Gates' Money Clone App
+
+Spend Bill Gates' Money Clone App with Redux
+
+## Live Demo
+
+[https://cagrierdemm.github.io/react-redux-spend-bill-gates-money-app/](https://cagrierdemm.github.io/react-redux-spend-bill-gates-money-app/)
+
+## Preview:
+
+![preview1.jpg](./public/preview1.png)
+
+![preview2.jpg](./public/preview2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
