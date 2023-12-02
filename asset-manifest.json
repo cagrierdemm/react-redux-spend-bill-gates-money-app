@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-spend-bill-gates-money-app/static/css/main.b14634a5.css",
+    "main.js": "/react-redux-spend-bill-gates-money-app/static/js/main.34fa18a4.js",
+    "static/js/787.4b6263c5.chunk.js": "/react-redux-spend-bill-gates-money-app/static/js/787.4b6263c5.chunk.js",
+    "index.html": "/react-redux-spend-bill-gates-money-app/index.html",
+    "main.b14634a5.css.map": "/react-redux-spend-bill-gates-money-app/static/css/main.b14634a5.css.map",
+    "main.34fa18a4.js.map": "/react-redux-spend-bill-gates-money-app/static/js/main.34fa18a4.js.map",
+    "787.4b6263c5.chunk.js.map": "/react-redux-spend-bill-gates-money-app/static/js/787.4b6263c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14634a5.css",
+    "static/js/main.34fa18a4.js"
+  ]
+}
